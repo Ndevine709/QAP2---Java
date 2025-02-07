@@ -1,3 +1,7 @@
+// QAP 2 - Advanced Programming (Java)
+// Author - Noah Devine
+// Due - February 13th
+
 public class TestMyRectangle {
     public static void main(String[] args) {
         MyPoint bottomRight = new MyPoint(2, 4);

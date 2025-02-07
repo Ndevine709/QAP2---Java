@@ -1,3 +1,7 @@
+// QAP 2 - Advanced Programming (Java)
+// Author - Noah Devine
+// Due - February 13th
+
 public class MyLine {
     // Attributes
     private MyPoint begin;
